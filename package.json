@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@iconscout/react-unicons": "^2.0.2",
+    "phosphor-react": "^1.4.1",
+    "react-router-dom": "^6.21.2",
+    "react-scripts": "^5.0.1"
+  }
+}
