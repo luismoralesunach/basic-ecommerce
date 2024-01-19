@@ -16,7 +16,7 @@ const Product = (props) =>{
             <div className="description">
                 <p><b>{productName}</b></p>
                 <p>${price}</p>
-                <button className="addToCartButton" onClick={() => addToCart(id)}>
+                <button className="addToCartBttn" onClick={() => addToCart(id)}>
                     Add to Cart 
                     {cartItemAmount > 0 && <>({cartItemAmount})</>}
                 </button>
